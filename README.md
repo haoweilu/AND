@@ -1,1 +1,2 @@
-‵‵`iverilog -o out tb.v design.v‵``
+```sh
+sudo apt install iverilog
