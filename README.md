@@ -1,4 +1,4 @@
-```sh
+``sh
 編譯 Verilog 程式``
 iverilog -o and_sim tb_AND.v AND.v
 執行模擬
